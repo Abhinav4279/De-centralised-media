@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202577037957",
+    "firebase_url": "https://pratap-1b756.firebaseio.com",
+    "project_id": "pratap-1b756",
+    "storage_bucket": "pratap-1b756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202577037957:android:fb186c43c7621bcdebf7ec",
+        "android_client_info": {
+          "package_name": "com.example.tej"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202577037957-vc4fitvo14ur1ic6l25o71ats3v0math.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tej",
+            "certificate_hash": "d05ea05038965e6f959042fe5143a8e9e02e8937"
+          }
+        },
+        {
+          "client_id": "202577037957-v7thio7q6rdubama55lns1qbgik958kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA6G_50kpTIxQnCUTcOX-OBnA3Ku7kGFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202577037957-v7thio7q6rdubama55lns1qbgik958kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
